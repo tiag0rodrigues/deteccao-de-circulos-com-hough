@@ -6,7 +6,7 @@
 <dd>Tiago Rodrigues dos Santos</dd
 </dl>
 
-<h2>Descrição:</h2>
+<h2>Descrição</h2>
 Esse projeto visa criar uma aplicação para detectar círculos em imagens usando a transformada de hough para círculos.
 Foi feito um pré-processamento nas imagens antes de aplicar hough para limpar ruídos. Além disso, houve um processo para a previsão dos raios.
 
