@@ -21,3 +21,11 @@ deteccao-de-circulos-com-hough/ <br>
 ├── .gitignore <br>
 ├── README.md <br>
 └── requirements.txt <br>
+
+### Na pasta APP está o arquivo do código principal, onde estão os algoritmos.
+
+### Na pasta DATASET_METADATA está o arquivo com os valores conhecidos dos círculos disponíveis no Roboflow para comparar e testar eficiência do algoritmo.
+
+### Na pasta IMAGES estão as imagens utilizadas pelo algoritmo para detectar os círculos.
+
+### O arquivo requirements.txt possui as dependências que precisam ser instaladas para funcionamento do algoritmo.
