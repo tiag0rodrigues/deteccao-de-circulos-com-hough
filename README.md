@@ -33,10 +33,9 @@ Foi feito um pré-processamento nas imagens antes de aplicar hough para limpar r
 <h2>Instalação</h2>
 
 <ol>
- <li>Crie uma pasta, exemplo "meuProjeto" # Nessa pasta ficará todo o projeto na sua máquina local </li>
- <li>Abra o terminal com diretório dentro da pasta "meuProjeto" # Se preferir utilize o terminal do editor da sua escolha</li>
+ <li>Abra o terminal com diretório dentro da pasta de sua escolha </li>
  <li>Execute o comando "git clone https://github.com/tiag0rodrigues/deteccao-de-circulos-com-hough.git"</li>
- <li>No terminal, navegue até a pasta do repositório clonado "deteccao-de-circulos-com-hough" e execute o seguinte comando:    </li>
+ <li>No terminal, navegue até a pasta do repositório clonado "deteccao-de-circulos-com-hough" e execute o seguinte comando:</li>
  <ul>
    <li>
      pip install -r requirements.txt
