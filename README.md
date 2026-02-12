@@ -22,13 +22,10 @@ Foi feito um pré-processamento nas imagens antes de aplicar hough para limpar r
   ├── README.md <br>
   └── requirements.txt <br>
 
-- Na pasta APP está o arquivo do código principal, onde estão os algoritmos.
-
-- Na pasta DATASET_METADATA está o arquivo com os valores conhecidos dos círculos disponíveis no Roboflow para comparar e testar eficiência do algoritmo.
-
-- Na pasta IMAGES estão as imagens utilizadas pelo algoritmo para detectar os círculos.
-
-- O arquivo requirements.txt possui as dependências que precisam ser instaladas para funcionamento do algoritmo.
+- Na pasta APP está o arquivo do código principal, onde estão os algoritmos.<br>
+- Na pasta DATASET_METADATA está o arquivo com os valores conhecidos dos círculos disponíveis no Roboflow para comparar e testar eficiência do algoritmo.<br>
+- Na pasta IMAGES estão as imagens utilizadas pelo algoritmo para detectar os círculos.<br>
+- O arquivo requirements.txt possui as dependências que precisam ser instaladas para funcionamento do algoritmo.<br>
 
 <h2>Instalação</h2>
 
