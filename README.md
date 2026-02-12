@@ -6,6 +6,9 @@
 <dd>Tiago Rodrigues dos Santos</dd
 </dl>
 
+<h3>Vídeo de apresentação da solução</h3>
+https://youtu.be/49tK0h80wAg
+
 <h2>Descrição</h2>
 Esse projeto visa criar uma aplicação para detectar círculos em imagens usando a transformada de hough para círculos.
 Foi feito um pré-processamento nas imagens antes de aplicar hough para limpar ruídos. Além disso, houve um processo para a previsão dos raios.
@@ -22,10 +25,10 @@ Foi feito um pré-processamento nas imagens antes de aplicar hough para limpar r
   ├── README.md <br>
   └── requirements.txt <br>
 
-- Na pasta APP está o arquivo do código principal, onde estão os algoritmos.<br>
-- Na pasta DATASET_METADATA está o arquivo com os valores conhecidos dos círculos disponíveis no Roboflow para comparar e testar eficiência do algoritmo.<br>
-- Na pasta IMAGES estão as imagens utilizadas pelo algoritmo para detectar os círculos.<br>
-- O arquivo requirements.txt possui as dependências que precisam ser instaladas para funcionamento do algoritmo.<br>
+- Na pasta <strong>app</strong> está o arquivo do código principal, onde estão os algoritmos.<br>
+- Na pasta <strong>dataset_metadata</strong> está o arquivo com os valores conhecidos dos círculos disponíveis no Roboflow para comparar e testar eficiência do algoritmo.<br>
+- Na pasta <strong>images</strong> estão as imagens utilizadas pelo algoritmo para detectar os círculos.<br>
+- O arquivo <strong>requirements.txt</strong> possui as dependências que precisam ser instaladas para funcionamento do algoritmo.<br>
 
 <h2>Instalação</h2>
 
